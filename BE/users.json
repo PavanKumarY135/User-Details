@@ -1,0 +1,26 @@
+[
+  {
+    "name":"pavan",
+    "details": {
+        "currentAddress": "6-84/1, Kothagudem, 508246",
+        "officeAddress": "Accenture solutions, divya sree, hyderabad",
+        "MobileNo": "1234567890"
+    }
+  },
+  {
+     "name":"kumar",
+    "details": {
+        "currentAddress": "shiva sai boys hostel, madhurangar, yousafguda",
+        "officeAddress": "IBM solutions, hitech city, hyderabad",
+        "MobileNo": "0987654321"
+    }
+  },
+  {
+     "name":"raju",
+    "details": {
+        "currentAddress": "sri raja reshwari hostel, ammerpet, hyderabad",
+        "officeAddress": "tata soultions, dlf, hyderabad",
+        "MobileNo": "3232584387"
+    }
+  }
+]
